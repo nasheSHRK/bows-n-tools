@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "ORO",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "bowsntools:ruby"
+    },
+    "R": {
+      "item": "bowsntools:ruby_shard"
+    },
+    "O": {
+      "item": "minecraft:gold"
+    }
+  },
+  "result": {
+    "item": "bowsntools:ruby_sword"
+  }
+}
