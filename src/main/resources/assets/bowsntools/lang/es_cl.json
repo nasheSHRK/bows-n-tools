@@ -1,0 +1,34 @@
+{
+  "item.bowsntools.ruby": "Ruby",
+  "item.bowsntools.titanium_ingot": "Lingote de Titaneo",
+
+  "block.bowsntools.ruby_block": "Bloque de Ruby",
+  "block.bowsntools.ruby_ore": "Ore de Ruby",
+  "block.bowsntools.titanium_block": "Bloque de Titaneo",
+  "block.bowsntools.titanium_ore": "Mena de Titaneo",
+
+  "itemGroup.bntmaterialstab": "Ores de BNT",
+  "itemGroup.bnttoolstab": "Herramientas de BNT",
+  "itemGroup.bntarmortab": "Armaduras de BNT",
+
+  "item.bowsntools.raw_ruby": "Ruby Crudo",
+
+  "item.bowsntools.ruby_sword": "Espada de Ruby",
+  "item.bowsntools.ruby_pickaxe": "Picota de Ruby",
+  "item.bowsntools.ruby_axe": "Hacha de Ruby",
+  "item.bowsntools.ruby_shovel": "Pala de Ruby",
+  "item.bowsntools.ruby_hoe": "Azada de Ruby",
+  "item.bowsntools.titanium_dagger": "Daga de Titaneo",
+
+  "item.bowsntools.ruby_shard": "Cluster de Poder",
+
+  "item.bowsntools.ruby_boots": "Botas de Ruby",
+  "item.bowsntools.ruby_leggings": "Pantalones de Ruby",
+  "item.bowsntools.ruby_chestplate": "Pechera de Ruby",
+  "item.bowsntools.ruby_helmet": "Casco de Ruby",
+
+  "item.bowsntools.titanium_helmet": "Casco de Titaneo",
+  "item.bowsntools.titanium_chestplate": "Pechera de Titaneo",
+  "item.bowsntools.titanium_leggings": "Pantalones de Titaneo",
+  "item.bowsntools.titanium_boots": "Botas de Titaneo"
+}

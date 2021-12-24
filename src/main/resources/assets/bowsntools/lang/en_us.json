@@ -1,0 +1,32 @@
+{
+  "item.bowsntools.ruby": "Ruby",
+  "item.bowsntools.titanium_ingot": "Titanium Ingot",
+
+  "block.bowsntools.ruby_block": "Ruby Block",
+  "block.bowsntools.ruby_ore": "Ruby Ore",
+  "block.bowsntools.titanium_block": "Titanium Block",
+  "block.bowsntools.titanium_ore": "Titanium Ore",
+
+  "itemGroup.bntmaterialstab": "BNT Ores",
+  "itemGroup.bnttoolstab": "BNT Tools",
+  "itemGroup.bntarmortab": "BNT Armors",
+
+  "item.bowsntools.ruby_sword": "Ruby Sword",
+  "item.bowsntools.ruby_pickaxe": "Ruby Pickaxe",
+  "item.bowsntools.ruby_axe": "Ruby Axe",
+  "item.bowsntools.ruby_shovel": "Ruby Shovel",
+  "item.bowsntools.ruby_hoe": "Ruby Hoe",
+  "item.bowsntools.titanium_dagger": "Titanium Dagger",
+
+  "item.bowsntools.ruby_shard": "Power Cluster",
+
+  "item.bowsntools.ruby_boots": "Ruby Boots",
+  "item.bowsntools.ruby_leggings": "Ruby Leggings",
+  "item.bowsntools.ruby_chestplate": "Ruby Chestplate",
+  "item.bowsntools.ruby_helmet": "Ruby Helmet",
+
+  "item.bowsntools.titanium_helmet": "Titanium Helmet",
+  "item.bowsntools.titanium_chestplate": "Titanium Chestplate",
+  "item.bowsntools.titanium_leggings": "Titanium Leggings",
+  "item.bowsntools.titanium_boots": "Titanium Boots"
+}
