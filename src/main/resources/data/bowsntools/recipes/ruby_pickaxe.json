@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " X ",
-    "ORO",
-    " # "
+    "XXX",
+    " # ",
+    "XXX"
   ],
   "key": {
     "#": {
@@ -11,15 +11,9 @@
     },
     "X": {
       "item": "bowsntools:ruby"
-    },
-    "R": {
-      "item": "bowsntools:ruby_shard"
-    },
-    "O": {
-      "item": "minecraft:gold_ingot"
     }
   },
   "result": {
-    "item": "bowsntools:ruby_sword"
+    "item": "bowsntools:ruby_pickaxe"
   }
 }

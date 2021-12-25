@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "bowsntools:ruby_shard"
+    },
+    "title": {
+      "translate": "advancements.bowsntools.ruby_shard.title"
+    },
+    "description": {
+      "translate": "advancements.bowsntools.ruby_shard.description"
+    },
+    "background": "bowsntools:textures/gui/advancements/ruby_ore.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bowsntools:ruby"
+          }
+        ]
+      }
+    }
+  }
+}

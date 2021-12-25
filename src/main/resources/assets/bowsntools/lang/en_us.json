@@ -1,6 +1,7 @@
 {
   "item.bowsntools.ruby": "Ruby",
   "item.bowsntools.titanium_ingot": "Titanium Ingot",
+  "item.bowsntools.titanium_scrap": "Titanium Scrap",
 
   "block.bowsntools.ruby_block": "Ruby Block",
   "block.bowsntools.ruby_ore": "Ruby Ore",
@@ -17,6 +18,9 @@
   "item.bowsntools.ruby_shovel": "Ruby Shovel",
   "item.bowsntools.ruby_hoe": "Ruby Hoe",
   "item.bowsntools.titanium_dagger": "Titanium Dagger",
+  "item.bowsntools.titanium_pickaxe": "Titanium Pickaxe",
+  "item.bowsntools.titanium_axe": "Titanium Axe",
+  "item.bowsntools.titanium_shovel": "Titanium Shovel",
 
   "item.bowsntools.ruby_shard": "Power Cluster",
 
@@ -28,5 +32,16 @@
   "item.bowsntools.titanium_helmet": "Titanium Helmet",
   "item.bowsntools.titanium_chestplate": "Titanium Chestplate",
   "item.bowsntools.titanium_leggings": "Titanium Leggings",
-  "item.bowsntools.titanium_boots": "Titanium Boots"
+  "item.bowsntools.titanium_boots": "Titanium Boots",
+
+  "advancements.bowsntools.ruby.title": "Get ruby",
+  "advancements.bowsntools.ruby.description": "Pickup that Ruby",
+  "advancements.bowsntools.ruby_shard.title": "BNT Core",
+  "advancements.bowsntools.ruby_shard.description": "How to get it: step1.- exist",
+  "advancements.bowsntools.ruby_axe.title": "Really?",
+  "advancements.bowsntools.ruby_axe.description": "Bro has Serious PVP problems",
+  "advancements.bowsntools.scrap.title": "Reinforcement",
+  "advancements.bowsntools.scrap.desc": "Get a Titanium Scrap",
+  "advancements.bowsntools.pro.title": "Get real",
+  "advancements.bowsntools.pro.desc": "Get all the items in the mod"
 }

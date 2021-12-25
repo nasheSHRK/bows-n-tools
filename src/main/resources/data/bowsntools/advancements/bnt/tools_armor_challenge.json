@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "item": "bowsntools:ruby_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.bowsntools.pro.title"
+    },
+    "description": {
+      "translate": "advancements.bowsntools.pro.desc",
+      "bold": true,
+      "underlined": true
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "bowsntools:bnt/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bowsntools:titanium_shovel"
+          },
+          {
+            "item": "bowsntools:titanium_axe"
+          },
+          {
+            "item": "bowsntools:titanium_pickaxe"
+          },
+          {
+            "item": "bowsntools:titanium_helmet"
+          },
+          {
+            "item": "bowsntools:titanium_chestplate"
+          },
+          {
+            "item": "bowsntools:titanium_leggings"
+          },
+          {
+            "item": "bowsntools:titanium_boots"
+          },
+          {
+            "item": "bowsntools:ruby_helmet"
+          },
+          {
+            "item": "bowsntools:ruby_chestplate"
+          },
+          {
+            "item": "bowsntools:ruby_leggings"
+          },
+          {
+            "item": "bowsntools:ruby_boots"
+          },
+          {
+            "item": "bowsntools:ruby_shovel"
+          },
+          {
+            "item": "bowsntools:ruby_axe"
+          },
+          {
+            "item": "bowsntools:ruby_pickaxe"
+          },
+          {
+            "item": "bowsntools:ruby_sword"
+          },
+          {
+            "item": "bowsntools:titanium_dagger"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

@@ -1,6 +1,7 @@
 {
   "item.bowsntools.ruby": "Ruby",
   "item.bowsntools.titanium_ingot": "Lingote de Titaneo",
+  "item.bowsntools.titanium_scrap": "Fragmento de Titaneo",
 
   "block.bowsntools.ruby_block": "Bloque de Ruby",
   "block.bowsntools.ruby_ore": "Ore de Ruby",
@@ -30,5 +31,16 @@
   "item.bowsntools.titanium_helmet": "Casco de Titaneo",
   "item.bowsntools.titanium_chestplate": "Pechera de Titaneo",
   "item.bowsntools.titanium_leggings": "Pantalones de Titaneo",
-  "item.bowsntools.titanium_boots": "Botas de Titaneo"
+  "item.bowsntools.titanium_boots": "Botas de Titaneo",
+
+  "advancements.bowsntools.ruby.title": "Consigue Ruby",
+  "advancements.bowsntools.ruby.description": "Mina/Recoge Ruby",
+  "advancements.bowsntools.ruby_shard.title": "Core de BNT",
+  "advancements.bowsntools.ruby.description": "Como conseguirlo:existir",
+  "advancements.bowsntools.ruby_axe.title": "Enserio?",
+  "advancements.bowsntools.ruby_axe.description": "Tienes Problemas de PVP serios",
+  "advancements.bowsntools.scrap.title": "Reforzamiento",
+  "advancements.bowsntools.scrap.desc": "Consigue Titaneo",
+  "advancements.bowsntools.pro.title": "Q prooo",
+  "advancements.bowsntools.pro.desc": "Consigue todos los Items de el mod"
 }

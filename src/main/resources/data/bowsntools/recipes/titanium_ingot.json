@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bowsntools:titanium_scrap"
+    },
+    {
+      "item": "bowsntools:titanium_scrap"
+    },
+    {
+      "item": "bowsntools:titanium_scrap"
+    },
+    {
+      "item": "bowsntools:titanium_scrap"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "bowsntools:titanium_ingot"
+  }
+}

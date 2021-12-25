@@ -15,6 +15,9 @@ public class ModItems {
     public static final RegistryObject<Item> RUBY = ITEMS.register("ruby",
             () -> new Item(new Item.Properties().group(ModItemGroup.BNTMATERIALS_GROUP)));
 
+    public static final RegistryObject<Item> RUBY_SHARD = ITEMS.register("ruby_shard",
+            () -> new Item(new Item.Properties().group(ModItemGroup.BNTMATERIALS_GROUP)));
+
     public static final RegistryObject<Item> TITANIUM_INGOT = ITEMS.register("titanium_ingot",
             () -> new Item(new Item.Properties().group(ModItemGroup.BNTMATERIALS_GROUP)));
 
@@ -43,6 +46,18 @@ public class ModItems {
 
     public static final RegistryObject<Item> TITANIUM_DAGGER = ITEMS.register("titanium_dagger",
             () -> new SwordItem(ModItemTier.TITANIUM, 1, 1,
+                    new Item.Properties().group(ModItemGroup.BNTTOOLS_GROUP)));
+
+        public static final RegistryObject<Item> TITANIUM_PICKAXE = ITEMS.register("titanium_pickaxe",
+            () -> new PickaxeItem(ModItemTier.TITANIUM, -1, -1,
+                    new Item.Properties().group(ModItemGroup.BNTTOOLS_GROUP)));
+
+    public static final RegistryObject<Item> TITANIUM_AXE = ITEMS.register("titanium_axe",
+            () -> new AxeItem(ModItemTier.TITANIUM, 3, -4,
+                    new Item.Properties().group(ModItemGroup.BNTTOOLS_GROUP)));
+
+    public static final RegistryObject<Item> TITANIUM_SHOVEL = ITEMS.register("titanium_shovel",
+            () -> new ShovelItem(ModItemTier.TITANIUM, -2, -1,
                     new Item.Properties().group(ModItemGroup.BNTTOOLS_GROUP)));
 
     public static final RegistryObject<Item> RUBY_HELMET = ITEMS.register("ruby_helmet",

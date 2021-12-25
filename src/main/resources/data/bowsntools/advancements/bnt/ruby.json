@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "bowsntools:ruby",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.bowsntools.ruby.title"
+    },
+    "description": {
+      "translate": "advancements.bowsntools.ruby.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "bowsntools:bnt/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bowsntools:ruby"
+          }
+        ]
+      }
+    }
+  }
+}
