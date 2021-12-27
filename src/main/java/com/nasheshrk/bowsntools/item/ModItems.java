@@ -60,6 +60,9 @@ public class ModItems {
             () -> new ShovelItem(ModItemTier.TITANIUM, -2, -1,
                     new Item.Properties().group(ModItemGroup.BNTTOOLS_GROUP)));
 
+    public static final RegistryObject<Item> RUBY_BOW = ITEMS.register("ruby_bow",
+            () -> new BowItem(new Item.Properties().group(ModItemGroup.BNTTOOLS_GROUP).maxStackSize(1)));
+
     public static final RegistryObject<Item> RUBY_HELMET = ITEMS.register("ruby_helmet",
             () -> new ArmorItem(ModArmorMaterial.RUBY, EquipmentSlotType.HEAD,
                     new Item.Properties().group(ModItemGroup.BNTARMOR_GROUP)));

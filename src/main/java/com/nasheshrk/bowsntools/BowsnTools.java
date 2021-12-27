@@ -2,6 +2,7 @@ package com.nasheshrk.bowsntools;
 
 import com.nasheshrk.bowsntools.block.ModBlocks;
 import com.nasheshrk.bowsntools.item.ModItems;
+import com.nasheshrk.bowsntools.util.ModItemModelProperties;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -57,7 +58,7 @@ public class BowsnTools
     }
 
     private void doClientStuff(final FMLClientSetupEvent event) {
-        // do something that can only be done on the client
+        ModItemModelProperties.makeBow(ModItems.RUBY_BOW.get());
     }
 
     private void enqueueIMC(final InterModEnqueueEvent event)

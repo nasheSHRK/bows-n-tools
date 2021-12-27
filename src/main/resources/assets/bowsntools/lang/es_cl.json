@@ -1,9 +1,9 @@
 {
-  "item.bowsntools.ruby": "Ruby",
+  "item.bowsntools.ruby": "Rubí",
   "item.bowsntools.titanium_ingot": "Lingote de Titaneo",
   "item.bowsntools.titanium_scrap": "Fragmento de Titaneo",
 
-  "block.bowsntools.ruby_block": "Bloque de Ruby",
+  "block.bowsntools.ruby_block": "Bloque de Rubí",
   "block.bowsntools.ruby_ore": "Ore de Ruby",
   "block.bowsntools.titanium_block": "Bloque de Titaneo",
   "block.bowsntools.titanium_ore": "Mena de Titaneo",
@@ -12,14 +12,19 @@
   "itemGroup.bnttoolstab": "Herramientas de BNT",
   "itemGroup.bntarmortab": "Armaduras de BNT",
 
-  "item.bowsntools.raw_ruby": "Ruby Crudo",
+  "item.bowsntools.raw_ruby": "Rubí Crudo",
 
-  "item.bowsntools.ruby_sword": "Espada de Ruby",
-  "item.bowsntools.ruby_pickaxe": "Picota de Ruby",
-  "item.bowsntools.ruby_axe": "Hacha de Ruby",
-  "item.bowsntools.ruby_shovel": "Pala de Ruby",
-  "item.bowsntools.ruby_hoe": "Azada de Ruby",
+  "item.bowsntools.ruby_sword": "Espada de Rubí",
+  "item.bowsntools.ruby_pickaxe": "Picota de Rubí",
+  "item.bowsntools.ruby_axe": "Hacha de Rubí",
+  "item.bowsntools.ruby_shovel": "Pala de Rubí",
+  "item.bowsntools.ruby_hoe": "Azada de Rubí",
+  "item.bowsntools.ruby_bow": "Arco de Rubí",
+
   "item.bowsntools.titanium_dagger": "Daga de Titaneo",
+  "item.bowsntools.titanium_pickaxe": "Picota de Titanio",
+  "item.bowsntools.titanium_axe": "Hacha de Titanio",
+  "item.bowsntools.titanium_shovel": "Pala de Titanio",
 
   "item.bowsntools.ruby_shard": "Cluster de Poder",
 
